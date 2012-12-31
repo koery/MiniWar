@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniWar", "MiniWar\MiniWar\MiniWar.csproj", "{C4770FEB-45FA-4A2B-8C93-40C6E014A56B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "MiniWarContent", "MiniWar\MiniWarContent\MiniWarContent.contentproj", "{4DED36D3-C99B-4BBA-BB58-ADFB9DBC401A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4770FEB-45FA-4A2B-8C93-40C6E014A56B}.Debug|x86.ActiveCfg = Debug|x86
+		{C4770FEB-45FA-4A2B-8C93-40C6E014A56B}.Debug|x86.Build.0 = Debug|x86
+		{C4770FEB-45FA-4A2B-8C93-40C6E014A56B}.Release|x86.ActiveCfg = Release|x86
+		{C4770FEB-45FA-4A2B-8C93-40C6E014A56B}.Release|x86.Build.0 = Release|x86
+		{4DED36D3-C99B-4BBA-BB58-ADFB9DBC401A}.Debug|x86.ActiveCfg = Debug|x86
+		{4DED36D3-C99B-4BBA-BB58-ADFB9DBC401A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

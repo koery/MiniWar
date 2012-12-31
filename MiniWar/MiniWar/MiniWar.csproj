@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{C4770FEB-45FA-4A2B-8C93-40C6E014A56B}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MiniWar</RootNamespace>
+    <AssemblyName>MiniWar</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>08c4ec75-0043-4b34-917b-72f31fd3d532</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>x86</PlatformTarget>
+    <XnaCompressContent>true</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Xna.Framework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Game, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AudioMgr.cs" />
+    <Compile Include="Card\BigBombPaper.cs" />
+    <Compile Include="Card\BigIcePaper.cs" />
+    <Compile Include="Card\BombPaper.cs" />
+    <Compile Include="Card\Box.cs" />
+    <Compile Include="Card\CardBox.cs" />
+    <Compile Include="Card\CardConfig.cs" />
+    <Compile Include="Card\CardShowLayer.cs" />
+    <Compile Include="Card\HorizontalPaper.cs" />
+    <Compile Include="Card\IcePaper.cs" />
+    <Compile Include="Card\Paper.cs" />
+    <Compile Include="Card\RandomWirePaper.cs" />
+    <Compile Include="Card\RocketPaper.cs" />
+    <Compile Include="Card\XWirePaper.cs" />
+    <Compile Include="Control.cs" />
+    <Compile Include="Effect\ElectricEffect.cs" />
+    <Compile Include="Effect\ElectricFlow.cs" />
+    <Compile Include="Effect\ElectricNode.cs" />
+    <Compile Include="Effect\PrimitiveUtil.cs" />
+    <Compile Include="Effect\ThunderSprite.cs" />
+    <Compile Include="Effect\Thunder\Thunder.cs" />
+    <Compile Include="Effect\Thunder\ThunderSprite.cs" />
+    <Compile Include="GameConfig.cs" />
+    <Compile Include="GameOverScene.cs" />
+    <Compile Include="HelpLayer.cs" />
+    <Compile Include="LaunchLoadingScene.cs" />
+    <Compile Include="MainGameLogic.cs" />
+    <Compile Include="MainGameScene.cs" />
+    <Compile Include="MainMenuScene.cs" />
+    <Compile Include="MGFramework\CCSAXParser.cs" />
+    <Compile Include="MGFramework\Config.cs" />
+    <Compile Include="MGFramework\DataManager.cs" />
+    <Compile Include="MGFramework\DefinitionObject.cs" />
+    <Compile Include="MGFramework\DefinitionReader.cs" />
+    <Compile Include="MGFramework\FrameStruct.cs" />
+    <Compile Include="MGFramework\Image.cs" />
+    <Compile Include="MGFramework\MAnimation.cs" />
+    <Compile Include="MGFramework\MFrame.cs" />
+    <Compile Include="MGFramework\MGAction.cs" />
+    <Compile Include="MGFramework\MGAnimate.cs" />
+    <Compile Include="MGFramework\MGAnimation.cs" />
+    <Compile Include="MGFramework\MGAtlasNode.cs" />
+    <Compile Include="MGFramework\MGBlink.cs" />
+    <Compile Include="MGFramework\MGButton.cs" />
+    <Compile Include="MGFramework\MGButtonDelegate.cs" />
+    <Compile Include="MGFramework\MGCallFunc.cs" />
+    <Compile Include="MGFramework\MGCallFuncN.cs" />
+    <Compile Include="MGFramework\MGCallFuncND.cs" />
+    <Compile Include="MGFramework\MGCamera.cs" />
+    <Compile Include="MGFramework\MGColorAction.cs" />
+    <Compile Include="MGFramework\MGColorLayer.cs" />
+    <Compile Include="MGFramework\MGColorNode.cs" />
+    <Compile Include="MGFramework\MGDelay.cs" />
+    <Compile Include="MGFramework\MGDirector.cs" />
+    <Compile Include="MGFramework\MGFadeIn.cs" />
+    <Compile Include="MGFramework\MGFadeOut.cs" />
+    <Compile Include="MGFramework\MGFadeTo.cs" />
+    <Compile Include="MGFramework\MGFileUtils.cs" />
+    <Compile Include="MGFramework\MGFrameAction.cs" />
+    <Compile Include="MGFramework\MGHide.cs" />
+    <Compile Include="MGFramework\MGJumpBy.cs" />
+    <Compile Include="MGFramework\MGJumpTo.cs" />
+    <Compile Include="MGFramework\MGLabel.cs" />
+    <Compile Include="MGFramework\MGLabelAtlas.cs" />
+    <Compile Include="MGFramework\MGLayer.cs" />
+    <Compile Include="MGFramework\MGMenu.cs" />
+    <Compile Include="MGFramework\MGMenuItem.cs" />
+    <Compile Include="MGFramework\MGMenuItemSprite.cs" />
+    <Compile Include="MGFramework\MGMoveBy.cs" />
+    <Compile Include="MGFramework\MGMoveTo.cs" />
+    <Compile Include="MGFramework\MGNode.cs" />
+    <Compile Include="MGFramework\MGOpacityAction.cs" />
+    <Compile Include="MGFramework\MGParabolaJumpBy.cs" />
+    <Compile Include="MGFramework\MGPlace.cs" />
+    <Compile Include="MGFramework\MGPrimitives.cs" />
+    <Compile Include="MGFramework\MGProgressBar.cs" />
+    <Compile Include="MGFramework\MGRepeat.cs" />
+    <Compile Include="MGFramework\MGRepeatForever.cs" />
+    <Compile Include="MGFramework\MGRotateBy.cs" />
+    <Compile Include="MGFramework\MGRotateTo.cs" />
+    <Compile Include="MGFramework\MGRotateXBy.cs" />
+    <Compile Include="MGFramework\MGRotateXTo.cs" />
+    <Compile Include="MGFramework\MGRotateYBy.cs" />
+    <Compile Include="MGFramework\MGRotateYTo.cs" />
+    <Compile Include="MGFramework\MGRotationAction.cs" />
+    <Compile Include="MGFramework\MGScaleAction.cs" />
+    <Compile Include="MGFramework\MGScaleBy.cs" />
+    <Compile Include="MGFramework\MGScaleTo.cs" />
+    <Compile Include="MGFramework\MGScene.cs" />
+    <Compile Include="MGFramework\MGSequence.cs" />
+    <Compile Include="MGFramework\MGShow.cs" />
+    <Compile Include="MGFramework\MGSpawn.cs" />
+    <Compile Include="MGFramework\MGSprite.cs" />
+    <Compile Include="MGFramework\MGSpriteFrame.cs" />
+    <Compile Include="MGFramework\MGSpriteFrameCache.cs" />
+    <Compile Include="MGFramework\MGTextureAtlas.cs" />
+    <Compile Include="MGFramework\MGTextureCache.cs" />
+    <Compile Include="MGFramework\MGTextureMgr.cs" />
+    <Compile Include="MGFramework\MGTintBy.cs" />
+    <Compile Include="MGFramework\MGTintTo.cs" />
+    <Compile Include="MGFramework\MGToggleVisibility.cs" />
+    <Compile Include="MGFramework\MGTransition.cs" />
+    <Compile Include="MGFramework\MGUIBase.cs" />
+    <Compile Include="MGFramework\MNS.cs" />
+    <Compile Include="MGFramework\MObject.cs" />
+    <Compile Include="MGFramework\MObjectInstance.cs" />
+    <Compile Include="MGFramework\Part.cs" />
+    <Compile Include="MGFramework\PartInstance.cs" />
+    <Compile Include="MGFramework\PartState.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Game1.cs" />
+    <Compile Include="StartSceen.cs" />
+    <Compile Include="TeachingScene.cs" />
+    <Compile Include="Toobz\IntVector.cs" />
+    <Compile Include="Toobz\Lint.cs" />
+    <Compile Include="Toobz\RevolutionAnchor.cs" />
+    <Compile Include="Toobz\Wire.cs" />
+    <Compile Include="Toobz\WireShowLayer.cs" />
+    <Compile Include="TouchLayer.cs" />
+    <Compile Include="Zombie\Actor.cs" />
+    <Compile Include="Zombie\ActorBabe.cs" />
+    <Compile Include="Zombie\ActorBoss.cs" />
+    <Compile Include="Zombie\ActorFast.cs" />
+    <Compile Include="Zombie\ActorLr.cs" />
+    <Compile Include="Zombie\ActorLv.cs" />
+    <Compile Include="Zombie\ActorMgr.cs" />
+    <Compile Include="Zombie\ActorNormal.cs" />
+    <Compile Include="Zombie\ActorSb.cs" />
+    <Compile Include="Zombie\AnimationMgr.cs" />
+    <Compile Include="Zombie\ZombieShowLayer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MiniWarContent\MiniWarContent.contentproj">
+      <Name>MiniWarContent</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Xna.Framework.4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft XNA Framework Redistributable 4.0</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>

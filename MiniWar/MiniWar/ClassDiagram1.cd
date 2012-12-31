@@ -1,0 +1,1069 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MiniWar.Card.BigBombPaper" Collapsed="true">
+    <Position X="0.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAA=</HashCode>
+      <FileName>Card\BigBombPaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.BigIcePaper" Collapsed="true">
+    <Position X="5.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAA=</HashCode>
+      <FileName>Card\BigIcePaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.BombPaper" Collapsed="true">
+    <Position X="7.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAA=</HashCode>
+      <FileName>Card\BombPaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.Box" Collapsed="true">
+    <Position X="32.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAIAAAAAAAAAAAABAAECEAAAAAAAAAA=</HashCode>
+      <FileName>Card\Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.CardBox" Collapsed="true">
+    <Position X="76.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAgAAAAAAAAAQAAEAAAABAAAQAAAAAACAAAA=</HashCode>
+      <FileName>Card\CardBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.CardConfig" Collapsed="true">
+    <Position X="78" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\CardConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.PaperInfo" Collapsed="true">
+    <Position X="78" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAQAAAAAAAAAAAAAAIACAAAAUAAAAAAAAAAA=</HashCode>
+      <FileName>Card\CardConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.CardShowLayer" Collapsed="true">
+    <Position X="39.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAEAAAQAAIAAAAAAYAAAAAAAACAAIAAAA=</HashCode>
+      <FileName>Card\CardShowLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.HorizontalPaper" Collapsed="true">
+    <Position X="9.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgAAAAAAAAAAAAAAAAAAIAAAAABAAAICA=</HashCode>
+      <FileName>Card\HorizontalPaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.IcePaper" Collapsed="true">
+    <Position X="12" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAA=</HashCode>
+      <FileName>Card\IcePaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.Paper" Collapsed="true">
+    <Position X="8.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAIQAEAABAAAAAA=</HashCode>
+      <FileName>Card\Paper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.RandomWirePaper" Collapsed="true">
+    <Position X="14.25" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEAAAAAABIAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\RandomWirePaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.RocketPaper" Collapsed="true">
+    <Position X="16.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgAAAAAAAAAAAAAAAAAAIAAQAAAAAAAAA=</HashCode>
+      <FileName>Card\RocketPaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Card.XWirePaper" Collapsed="true">
+    <Position X="3" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAEAAAAAAAIAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Card\XWirePaper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Control" Collapsed="true">
+    <Position X="72.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAQAABQAAAAAAAAAwAAAABAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Game1" Collapsed="true">
+    <Position X="72.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAEAEAAAAAAgAAAAAAAAAAAAAAAAACAIAAAAAAAAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.GameConfig" Collapsed="true">
+    <Position X="74.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAEAAAQAhgAoCEEAAEAAAAAAAAAAAIAAAACA=</HashCode>
+      <FileName>GameConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.GameOverScene" Collapsed="true">
+    <Position X="10" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>GameOverScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.HelpLayer" Collapsed="true">
+    <Position X="41.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEABAAAAAAAAAAAgCwAAAAACAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>HelpLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.LaunchLoadingScene" Collapsed="true">
+    <Position X="14.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQEAAAAAAAAAAAAEAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>LaunchLoadingScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.MainGameLogic" Collapsed="true">
+    <Position X="78" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQAAAAAAAAEAEIgAAAAAIAAIAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>MainGameLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.MainGameScene" Collapsed="true">
+    <Position X="16.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAACGADAAAAAGAAAAIAAAAAEBAAAAAAAgAQA=</HashCode>
+      <FileName>MainGameScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.MainMenuScene" Collapsed="true">
+    <Position X="19" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>MainMenuScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Program" Collapsed="true">
+    <Position X="71" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.StartSceen" Collapsed="true">
+    <Position X="5.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAIAAIAAQAQAAAAAAAAQAAAACAAA=</HashCode>
+      <FileName>StartSceen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.TeachingScene" Collapsed="true">
+    <Position X="7.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAIEAADAFCIAAAAAAIBAAAAABAAAAAAAgAVE=</HashCode>
+      <FileName>TeachingScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.TeachingLayer" Collapsed="true">
+    <Position X="30.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAJAIAQAAAIgABIIAABAAIAAAAIAAEAAAgAAAAAA=</HashCode>
+      <FileName>TeachingScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.TouchLayer" Collapsed="true">
+    <Position X="34.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAwEAAgAAAAYAAAIwAAAgAIIRAAAAQoAAAABABAEA=</HashCode>
+      <FileName>TouchLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSZombie.Effect.ElectricEffect" Collapsed="true">
+    <Position X="78" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAQBkBAAAAAAAABAAAIAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Effect\ElectricEffect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSZombie.Effect.ElectricFlow" Collapsed="true">
+    <Position X="79.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAQAABgABAEAAAQABAAAABAAAAIAAAAAIAAA=</HashCode>
+      <FileName>Effect\ElectricFlow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSZombie.Effect.ElectricNode" Collapsed="true">
+    <Position X="81.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAAIAABEBgAAAEQAAAAAAABEAAAAAAAAAEAAA=</HashCode>
+      <FileName>Effect\ElectricNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSZombie.Effect.PrimitiveUtil" Collapsed="true">
+    <Position X="81.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAIAAAAAAAAAAAEAAAAAAIAA=</HashCode>
+      <FileName>Effect\PrimitiveUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VSZombie.Effect.ThunderSprite" Collapsed="true">
+    <Position X="52.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAIAAAAAAQwgARFAEAAAAAAAAAEAAAAAACYAAAgAA=</HashCode>
+      <FileName>Effect\ThunderSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThreeDefense.Effect.Thunder" Collapsed="true">
+    <Position X="74.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAACAAAAAIAQRAEAEIAAAAIAAAAAAAAAQAACAAAAQAA=</HashCode>
+      <FileName>Effect\Thunder\Thunder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThreeDefense.Effect.ThunderSprite" Collapsed="true">
+    <Position X="55" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAIAAAAAAQwgARFAEAAAAAABAAEAAAAAACYAAAgAA=</HashCode>
+      <FileName>Effect\Thunder\ThunderSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.CCSAXParser" Collapsed="true">
+    <Position X="81.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAACAAAAAAAAAQAAIUAAAAAAAAIAA=</HashCode>
+      <FileName>MGFramework\CCSAXParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.Config" Collapsed="true">
+    <Position X="71" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAACAAAAAAAAgAAAAAAAAAAAgAAAAAEAAAA=</HashCode>
+      <FileName>MGFramework\Config.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.DataManager" Collapsed="true">
+    <Position X="74.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAEAAAAAAAAAAgAAACECACACAAAAAACAAAAgAAA=</HashCode>
+      <FileName>MGFramework\DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.DefinitionObject" Collapsed="true">
+    <Position X="6" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAACAAUAAAAIAQQAAAAAAAAIIAAAAQAAEgAAAA=</HashCode>
+      <FileName>MGFramework\DefinitionObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.DefinitionReader" Collapsed="true">
+    <Position X="76.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAADAAIAAAAAAAAAAAAQgAAQAAIASAACQAAAABAA=</HashCode>
+      <FileName>MGFramework\DefinitionReader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.FrameStruct" Collapsed="true">
+    <Position X="71" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAAAEABAAAAAAAAAAAAEAAAAAAAAAAAAIAAEAAAAA=</HashCode>
+      <FileName>MGFramework\FrameStruct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.Image" Collapsed="true">
+    <Position X="2.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CQQAAABACAAQAAABIAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>MGFramework\Image.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MAnimation" Collapsed="true">
+    <Position X="5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAQAAAAIAQQAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>MGFramework\MAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MFrame" Collapsed="true">
+    <Position X="7.25" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAACEAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>MGFramework\MFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGAction" Collapsed="true">
+    <Position X="35.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAACACBIAAABAAECQAAAAAAAAAoQAAAAgCAAI=</HashCode>
+      <FileName>MGFramework\MGAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGAnimate" Collapsed="true">
+    <Position X="48.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAQAAAAAAAAAAAACAAAAAEEEAAAI=</HashCode>
+      <FileName>MGFramework\MGAnimate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGAnimation" Collapsed="true">
+    <Position X="79.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BggAMAAAAAACAAAQABAACAQRAACAAAAAAIABAAAAgQA=</HashCode>
+      <FileName>MGFramework\MGAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGAtlasNode" Collapsed="true">
+    <Position X="25.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAACAAAEAEAAEAAAA=</HashCode>
+      <FileName>MGFramework\MGAtlasNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGBlink" Collapsed="true">
+    <Position X="64" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAACAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGBlink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGButton" Collapsed="true">
+    <Position X="21.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAgAGiAAAAAYYoAAgIEAAQIAIAiAIAAkAAAgEABAAmE=</HashCode>
+      <FileName>MGFramework\MGButton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGCallFunc" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAA=</HashCode>
+      <FileName>MGFramework\MGCallFunc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGCallFuncN" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAABAAA=</HashCode>
+      <FileName>MGFramework\MGCallFuncN.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGCallFuncND" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAABAAIAAAAAABAAA=</HashCode>
+      <FileName>MGFramework\MGCallFuncND.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGCamera" Collapsed="true">
+    <Position X="81.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAgAQAgAAQACAAQAAAABAAAwAiAAAA=</HashCode>
+      <FileName>MGFramework\MGCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGColorAction" Collapsed="true">
+    <Position X="30.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAIBAAAAAAAAAAICAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGColorAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGColorLayer" Collapsed="true">
+    <Position X="37" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGColorLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGColorNode" Collapsed="true">
+    <Position X="3.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAACAIAAAAAAAAAAIAAAAAAgA=</HashCode>
+      <FileName>MGFramework\MGColorNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGDelay" Collapsed="true">
+    <Position X="50.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGDelay.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGDirector" Collapsed="true">
+    <Position X="71" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQwQAwBi0wCwwAAIAAUgBEIDArCIwgAwahAAAgAggY=</HashCode>
+      <FileName>MGFramework\MGDirector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGFadeIn" Collapsed="true">
+    <Position X="66.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAIAAgAACAAAAAAAAAAAAAAAAgAAAI=</HashCode>
+      <FileName>MGFramework\MGFadeIn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGFadeOut" Collapsed="true">
+    <Position X="66.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGFadeOut.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGFadeTo" Collapsed="true">
+    <Position X="66.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGFadeTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGFileUtils" Collapsed="true">
+    <Position X="74.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGFileUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.CCDictMaker" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="79.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEQAAAGAAAAAACAAAAAAAAIQAAAEQAAEAAgAAAA=</HashCode>
+      <FileName>MGFramework\MGFileUtils.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MGFramework.MGFrameAction" Collapsed="true">
+    <Position X="32.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAIEEAEAAAAgA=</HashCode>
+      <FileName>MGFramework\MGFrameAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGHide" Collapsed="true">
+    <Position X="39.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGHide.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGJumpBy" Collapsed="true">
+    <Position X="46" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QEQAAAAABAAAQAAAAAAAACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGJumpBy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGJumpTo" Collapsed="true">
+    <Position X="46" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAI=</HashCode>
+      <FileName>MGFramework\MGJumpTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGLabel" Collapsed="true">
+    <Position X="23.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQAAEAAABAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGLabel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGLabelAtlas" Collapsed="true">
+    <Position X="25.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAgQAQEAAAAAAAAAAAAAIAAAAAAAAAgA=</HashCode>
+      <FileName>MGFramework\MGLabelAtlas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGLayer" Collapsed="true">
+    <Position X="39.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAAABAEAAAAAAAIQAAAACAAACQGAIAAAACAIAAA=</HashCode>
+      <FileName>MGFramework\MGLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGMenu" Collapsed="true">
+    <Position X="48.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAEAgABAgIAAAIABAAAQIAABIAKAgAAABAAAAAQ=</HashCode>
+      <FileName>MGFramework\MGMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGEvent" Collapsed="true">
+    <Position X="72.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGMenuItem" Collapsed="true">
+    <Position X="28" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAEIJAAAEAAAAAACAAAACAAAAAAgAAAAI=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGMenuItemSprite" Collapsed="true">
+    <Position X="28" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEBCAAAAAAMIAAAAAAAAAAQAIAAAQAAAAggACAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItemSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGMoveBy" Collapsed="true">
+    <Position X="10" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGMoveBy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGMoveTo" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAQAAAAAAAACAAAACAAAAAAAAAAAgAAAI=</HashCode>
+      <FileName>MGFramework\MGMoveTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGNode" Collapsed="true">
+    <Position X="35.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQCEgEIFQEoMoAwgooAwGMYIIIMKkEILAkAwmoAADA=</HashCode>
+      <FileName>MGFramework\MGNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGOpacityAction" Collapsed="true">
+    <Position X="19" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAQA=</HashCode>
+      <FileName>MGFramework\MGOpacityAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGParabolaJumpBy" Collapsed="true">
+    <Position X="23.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBQAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAoAEAAQI=</HashCode>
+      <FileName>MGFramework\MGParabolaJumpBy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGPlace" Collapsed="true">
+    <Position X="34.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGPlace.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGPrimitives" Collapsed="true">
+    <Position X="76.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAEAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGPrimitives.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGProgressBar" Collapsed="true">
+    <Position X="50.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgQAAAAAAAAAAAAAAAAQAAAACAAAAAA=</HashCode>
+      <FileName>MGFramework\MGProgressBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRepeat" Collapsed="true">
+    <Position X="52.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAY=</HashCode>
+      <FileName>MGFramework\MGRepeat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRepeatForever" Collapsed="true">
+    <Position X="57.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAY=</HashCode>
+      <FileName>MGFramework\MGRepeatForever.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRotateBy" Collapsed="true">
+    <Position X="68.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGRotateBy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRotateTo" Collapsed="true">
+    <Position X="68.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAACAAAAAAAAAAACAAAAgAAAI=</HashCode>
+      <FileName>MGFramework\MGRotateTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRotateXBy" Collapsed="true">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGRotateXBy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRotateXTo" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAACAAAAAAAAAAACAAAAgAAAI=</HashCode>
+      <FileName>MGFramework\MGRotateXTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRotateYBy" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGRotateYBy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRotateYTo" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAAAAAAAAAAAAACAAAAAAAAAAACAAAAgAAAI=</HashCode>
+      <FileName>MGFramework\MGRotateYTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGRotationAction" Collapsed="true">
+    <Position X="21.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAIAAACAAAAAA=</HashCode>
+      <FileName>MGFramework\MGRotationAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGScaleAction" Collapsed="true">
+    <Position X="25.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAIAAAAAACAAA=</HashCode>
+      <FileName>MGFramework\MGScaleAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGScaleBy" Collapsed="true">
+    <Position X="41.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGScaleBy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGScaleTo" Collapsed="true">
+    <Position X="41.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAAAQAAAAAAAAAIAACAAAAAAAAAAAQAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGScaleTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGScene" Collapsed="true">
+    <Position X="12.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAACAAACAAA=</HashCode>
+      <FileName>MGFramework\MGScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGSequence" Collapsed="true">
+    <Position X="55" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAACAAAIAEAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGSequence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGShow" Collapsed="true">
+    <Position X="59.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGShow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGSpawn" Collapsed="true">
+    <Position X="61.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAACAAAIAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGSpawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGSprite" Collapsed="true">
+    <Position X="52.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGCZAAABYBAQgBioAAAAAABBWABCSAIAAIAAQEAggA=</HashCode>
+      <FileName>MGFramework\MGSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGSpriteFrame" Collapsed="true">
+    <Position X="78" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAEAAAAAAAAAAAAAACAAAAAAACIAAAAAgQA=</HashCode>
+      <FileName>MGFramework\MGSpriteFrame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGSpriteFrameCache" Collapsed="true">
+    <Position X="79.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAAAQAACAAEgIAAAAAAQAAAABBAIAABAADAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGSpriteFrameCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGTextureAtlas" Collapsed="true">
+    <Position X="81.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAQAAAgIAAAAAAAAAQAABAAAAAAIAAAAEAAA=</HashCode>
+      <FileName>MGFramework\MGTextureAtlas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGTextureCache" Collapsed="true">
+    <Position X="71" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAABIBACAAAAAAIAAAAAAAAAAAAAACAACAAA=</HashCode>
+      <FileName>MGFramework\MGTextureCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGTextureMgr" Collapsed="true">
+    <Position X="72.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAAAAAAAAAAAAIAEAAAQAACAAAIAAIAASAAgAAAA=</HashCode>
+      <FileName>MGFramework\MGTextureMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGTintBy" Collapsed="true">
+    <Position X="28" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAIAAAAAAAEAAAAAACAAAAAAAACEAIAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGTintBy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGTintTo" Collapsed="true">
+    <Position X="37" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAACAAAAAAAIAgAAAAAAAAAAI=</HashCode>
+      <FileName>MGFramework\MGTintTo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGToggleVisibility" Collapsed="true">
+    <Position X="43.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGToggleVisibility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGTransition" Collapsed="true">
+    <Position X="12.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAACBAEAAAAAACAAAAAAACAAJAAAAADAAAg=</HashCode>
+      <FileName>MGFramework\MGTransition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MGUIBase" Collapsed="true">
+    <Position X="21.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAKAAAQAAAEAAAAAAIAAYAAACAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGUIBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MNS" Collapsed="true">
+    <Position X="74.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAgAAAAAAAAAAQAAAAAAAACAA=</HashCode>
+      <FileName>MGFramework\MNS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MObject" Collapsed="true">
+    <Position X="9.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAQAAAAIBQQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.MObjectInstance" Collapsed="true">
+    <Position X="76.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIgBEAAAAgAAAAgAAAAQGAkAgAAAQAAQAQAAShJAA=</HashCode>
+      <FileName>MGFramework\MObjectInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.Part" Collapsed="true">
+    <Position X="11.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACgAAAAAAIAQAAAAAAAAAABAAAQIAAAAAAAA=</HashCode>
+      <FileName>MGFramework\Part.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.PartInstance" Collapsed="true">
+    <Position X="79.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FBQAABggAUAgCQgAAAEAAADAEBAAAAAABAAAgAAABAI=</HashCode>
+      <FileName>MGFramework\PartInstance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MGFramework.PartState" Collapsed="true">
+    <Position X="0.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAACAAAAAAAIAYAAAAAAACAAAAAAEAAAAAAAAE=</HashCode>
+      <FileName>MGFramework\PartState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Toobz.Lint" Collapsed="true">
+    <Position X="76.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAECAAAAAA=</HashCode>
+      <FileName>Toobz\Lint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Toobz.RevolutionAnchor" Collapsed="true">
+    <Position X="72.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAgAAAAgBAAACCgAEAAAAQAEAAAAAAEgA=</HashCode>
+      <FileName>Toobz\RevolutionAnchor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Toobz.Wire" Collapsed="true">
+    <Position X="76.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiCKAAEQACgwAQEAEAAAAQAACAAAABgUAMAIByIAEAA=</HashCode>
+      <FileName>Toobz\Wire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Toobz.WireDate" Collapsed="true">
+    <Position X="78" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Toobz\Wire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Toobz.WireShowLayer" Collapsed="true">
+    <Position X="46" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCAIABEQAAAAECRAEAAQAAAhpAIClJAAAEBGCCBAEEA=</HashCode>
+      <FileName>Toobz\WireShowLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.Actor" Collapsed="true">
+    <Position X="62.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAAAAAQCAAAAAAAAAAgRBEAABqAQIEgCKAAAQAI=</HashCode>
+      <FileName>Zombie\Actor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ActorBabe" Collapsed="true">
+    <Position X="68.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zombie\ActorBabe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ActorBoss" Collapsed="true">
+    <Position X="57.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAAA=</HashCode>
+      <FileName>Zombie\ActorBoss.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ActorFast" Collapsed="true">
+    <Position X="59.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zombie\ActorFast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ActorLr" Collapsed="true">
+    <Position X="61.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zombie\ActorLr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ActorLv" Collapsed="true">
+    <Position X="71" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAAAAIAAgAAAACAAAAAAAAAAEAAAAAEEAAwACgAA=</HashCode>
+      <FileName>Zombie\ActorLv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ActorMgr" Collapsed="true">
+    <Position X="72.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAIAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Zombie\ActorMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ActorNormal" Collapsed="true">
+    <Position X="64" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Zombie\ActorNormal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ActorSb" Collapsed="true">
+    <Position X="66.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAAA=</HashCode>
+      <FileName>Zombie\ActorSb.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.AnimationMgr" Collapsed="true">
+    <Position X="74.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAhgAAAMEAogAAACCAAQAAAgAAAAAAAAgAjmgAIAAA=</HashCode>
+      <FileName>Zombie\AnimationMgr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MiniWar.Zombie.ZombieShowLayer" Collapsed="true">
+    <Position X="43.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAAAAAAAAAAAAAIAAAAEAAACAAAEAQA=</HashCode>
+      <FileName>Zombie\ZombieShowLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="VSZombie.Toobz.IntVector" Collapsed="true">
+    <Position X="71" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAYA0AAAAAAAAECAAAAEAAAAAAYiA=</HashCode>
+      <FileName>Toobz\IntVector.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="MGFramework.IMGButtonDelegate" Collapsed="true">
+    <Position X="74.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAQgA=</HashCode>
+      <FileName>MGFramework\MGButtonDelegate.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MGFramework.ICCSAXDelegator" Collapsed="true">
+    <Position X="72.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAQAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGFileUtils.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MGFramework.ISelectorProtocol" Collapsed="true">
+    <Position X="76.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MGFramework.ICCRGBAProtocol" Collapsed="true">
+    <Position X="71" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItemSprite.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MGFramework.WindowState" Collapsed="true">
+    <Position X="74.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgACAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGDirector.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MGFramework.CCSAXState" Collapsed="true">
+    <Position X="71" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAQAAAAAAAAAAAAAAAAAAAAgAABAAAAAAECABAAAA=</HashCode>
+      <FileName>MGFramework\MGFileUtils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MGFramework.MGMenuState" Collapsed="true">
+    <Position X="72.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>MGFramework\MGMenu.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MiniWar.Toobz.WireType" Collapsed="true">
+    <Position X="78" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAggAAAAAAAAAAAAAAAAAAgEAAAAAAAAAAQA=</HashCode>
+      <FileName>Toobz\Wire.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MiniWar.Toobz.WireDirection" Collapsed="true">
+    <Position X="76.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAABAAAAQIAAA=</HashCode>
+      <FileName>Toobz\Wire.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="MiniWar.Callback" Collapsed="true">
+    <Position X="71" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameConfig.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MiniWar.CallbackN" Collapsed="true">
+    <Position X="72.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>GameConfig.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MGFramework.SelSchedule" Collapsed="true">
+    <Position X="72.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MGFramework.SelCallFunc" Collapsed="true">
+    <Position X="74.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MGFramework.SelCallFuncN" Collapsed="true">
+    <Position X="76.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MGFramework.SelCallFuncND" Collapsed="true">
+    <Position X="78" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAgA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MGFramework.SelCallFuncO" Collapsed="true">
+    <Position X="79.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MGFramework.SelMenuHandler" Collapsed="true">
+    <Position X="71" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MGFramework.SelEventHandler" Collapsed="true">
+    <Position X="81.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>MGFramework\MGMenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="MiniWar.Toobz.ThunderCallBack" Collapsed="true">
+    <Position X="74.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Toobz\WireShowLayer.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
